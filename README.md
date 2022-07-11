@@ -3,6 +3,8 @@ Proyecto E-Commerce. Alura Latam.
 Utilización de:
 ![image](https://user-images.githubusercontent.com/92988456/178242998-24d54761-2f67-4ae2-a22c-c64899758e61.png)
 
+Proyecto E-Commerce:
+
 ![image](https://user-images.githubusercontent.com/92988456/178241968-bbbd9d6c-556f-43c0-abff-fa407d1ddd59.png)
 
 ![image](https://user-images.githubusercontent.com/92988456/178242022-7a087d19-eea9-4bd0-9083-cb8f1a1fd4bc.png)
